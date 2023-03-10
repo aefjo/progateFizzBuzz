@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    padding: 40px;
+    background-color:aliceblue;
+}
+
+form input,
+form button {
+    padding: 10px 15px;
+}
